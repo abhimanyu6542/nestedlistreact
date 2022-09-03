@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nestedlistreact/static/css/main.e6c13ad2.css",
+    "main.js": "/nestedlistreact/static/js/main.d911f349.js",
+    "static/js/787.dace3458.chunk.js": "/nestedlistreact/static/js/787.dace3458.chunk.js",
+    "index.html": "/nestedlistreact/index.html",
+    "main.e6c13ad2.css.map": "/nestedlistreact/static/css/main.e6c13ad2.css.map",
+    "main.d911f349.js.map": "/nestedlistreact/static/js/main.d911f349.js.map",
+    "787.dace3458.chunk.js.map": "/nestedlistreact/static/js/787.dace3458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d911f349.js"
+  ]
+}
